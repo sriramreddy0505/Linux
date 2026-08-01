@@ -2,28 +2,28 @@
 This project is intended to learn Linux concepts.
 
 # Steps to setup Ubuntu OS on Windows Machine
-Step 1: check wsl status on powershell and execute below command
+Step 1: Check wsl status on powershell and execute below command
 ```
 wsl --version
 ```
-Step 2: list flavours
+Step 2: List available Linux flavours
 ```
 wsl --list --online
 ```
-Step 3: install 
+Step 3: Install Linux flavour 
 ```
 wsl --install -d Ubuntu-24.04
 ```
-Step 4: restart system
+Step 4: Restart System
 
-Step 5: Check ubuntu status
-search with ubuntu
+Step 5: Check Ubuntu installation status
+search with ubuntu on search bar
 
-Step 6: check Ubuntu version
+Step 6: Check installed Ubuntu version
 ```
 lsb_release -a
 ```
-Step 7: update packages
+Step 7: Update packages
 ```
 sudo apt update
 ```
