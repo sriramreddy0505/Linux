@@ -1,8 +1,8 @@
 # Linux
 This project is intended to learn Linux concepts.
 
-# Steps to setup Ubuntu OS on Windows Machine
-Step 1: Check wsl status on powershell and execute below command
+# Steps to Setup Ubuntu OS on Windows Machine
+Step 1: Check WSL status on powershell and execute below command
 ```
 wsl --version
 ```
