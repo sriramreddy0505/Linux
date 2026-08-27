@@ -33,11 +33,9 @@ Computer Security
 Protect
        ↓
 Data + Systems + Networks + Users
-02 — Security Elements / CIA Triad ⭐⭐⭐
+02 — Security Elements / CIA Triad 
 
 This is one of the most important topics.
-
-Important topics
 Confidentiality
 Integrity
 Availability
@@ -50,7 +48,8 @@ Remember
 Confidentiality → Who can SEE?
 Integrity       → Who can CHANGE?
 Availability    → Can I ACCESS?
-03 — Security Terminologies ⭐⭐⭐
+
+03 — Security Terminologies 
 
 You should know these terms very clearly.
 
@@ -79,7 +78,8 @@ Exploit / Attack
 Risk
    ↓
 Damage
-04 — Security Layers ⭐⭐⭐
+
+04 — Security Layers 
 Important topics
 Physical Security
 Network Security
@@ -101,7 +101,8 @@ Application
 Data
    ↓
 User
-05 — Securing Operating System ⭐⭐⭐
+
+05 — Securing Operating System 
 Important topics
 OS security
 Security updates
@@ -130,7 +131,8 @@ Firewall
 Monitoring
    =
 Better OS Security
-06 — Antivirus ⭐⭐
+
+06 — Antivirus
 Important topics
 What is Antivirus?
 How antivirus works
@@ -152,9 +154,8 @@ Safe? ── YES → Allow
  NO
  ↓
 Block / Quarantine
-07 — Malware ⭐⭐⭐
 
-This is another very important interview topic.
+07 — Malware 
 
 Important malware types
 Virus
@@ -176,11 +177,9 @@ Spyware	Secretly monitors/collects information
 Adware	Displays unwanted advertisements
 Rootkit	Hides malicious activity/access
 Keylogger	Records keystrokes
-08 — Encryption ⭐⭐⭐
 
+08 — Encryption 
 Very important for network and cybersecurity.
-
-Important topics
 What is encryption?
 Plaintext
 Ciphertext
@@ -212,7 +211,8 @@ Encryption → Protect confidentiality
 Hashing → Integrity / password-related applications
 
 Digital Signature → Authenticity + Integrity + Non-repudiation
-09 — Data Backup ⭐⭐⭐
+
+09 — Data Backup 
 Important topics
 What is backup?
 Why backup is required
@@ -236,7 +236,8 @@ Data Loss
 Restore
      ↓
 Data Recovered
-10 — Disaster Recovery ⭐⭐⭐
+
+10 — Disaster Recovery 
 Important topics
 What is Disaster Recovery?
 Disaster Recovery Plan (DRP)
@@ -266,11 +267,9 @@ Recovery
 Restore Systems
    ↓
 Resume Operations
-11 — Network Security ⭐⭐⭐
 
+11 — Network Security 
 This is one of the biggest topics.
-
-Important topics
 What is Network Security?
 Network threats
 Firewall
@@ -308,7 +307,8 @@ IDS → Detects suspicious activity
 IPS → Detects + can block activity
 
 VPN → Creates protected communication channel
-12 — Security Policies ⭐⭐
+
+12 — Security Policies 
 Important topics
 What is a security policy?
 Password Policy
@@ -332,11 +332,9 @@ Employees
 Secure behavior
        ↓
 Reduced risk
-13 — Security Checklist ⭐⭐
 
+13 — Security Checklist
 This is the practical implementation section.
-
-Important checks
 OS updated
 Applications updated
 Strong passwords
@@ -365,7 +363,8 @@ Simple checklist
 [ ] Least Privilege
 [ ] Logs Monitored
 [ ] DR Plan Tested
-14 — Legal Compliance ⭐⭐
+
+14 — Legal Compliance 
 Important topics
 What is Legal Compliance?
 Privacy
