@@ -16,6 +16,7 @@ Computer-Security/
 ├── 12-Security-Policies.md
 ├── 13-Security-Checklist.md
 └── 14-Legal-Compliance.md
+
 01 — Computer Security Overview
 Important topics
 What is Computer Security?
@@ -33,6 +34,7 @@ Computer Security
 Protect
        ↓
 Data + Systems + Networks + Users
+
 02 — Security Elements / CIA Triad 
 
 This is one of the most important topics.
