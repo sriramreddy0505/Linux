@@ -129,7 +129,7 @@ Least Privilege
 Firewall
    +
 Monitoring
-   =
+   
 Better OS Security
 
 06 — Antivirus
