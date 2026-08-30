@@ -1,7 +1,7 @@
-# Linux
-This project is intended to learn Linux concepts.
+# Fundational Engineering Bootcamp
+This project is intended to learn foundation for Software job.
 
-# Steps to Setup Ubuntu OS on Windows Machine
+# Steps to Setup WSL Ubuntu OS on Windows Machine
 Step 1: Check WSL status on powershell and execute below command
 ```
 wsl --version
