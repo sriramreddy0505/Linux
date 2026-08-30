@@ -27,3 +27,8 @@ Step 7: Update packages
 ```
 sudo apt update
 ```
+
+# IDEs
+VSCode for DevOps
+
+Jupyter Notebook for Data Scientists, AI/ML Engineers
