@@ -29,6 +29,6 @@ sudo apt update
 ```
 
 # IDEs
-VSCode for DevOps
+VSCode for DevOps: https://code.visualstudio.com/
 
-Jupyter Notebook for Data Scientists, AI/ML Engineers
+Jupyter Notebook for Data Scientists, AI/ML Engineers: https://jupyter.org/
